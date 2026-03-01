@@ -33,7 +33,7 @@ print()
 print(f"{' ' * 8}  {' ' * 8}")
 
 """
-
+print('pipa pupa')
 
 print()
 print(f"{' ' * 8} Тест поиска игроков {' ' * 8}")
